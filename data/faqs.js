@@ -1,21 +1,21 @@
 export const faqs = [
   {
-    question: "What makes Sensai unique as a career development tool?",
+    question: " What is Personalized Learning Paths?",
     answer:
-      "Sensai combines AI-powered career tools with industry-specific insights to help you advance your career. Our platform offers three main features: an intelligent resume builder, a cover letter generator, and an adaptive interview preparation system. Each tool is tailored to your industry and skills, providing personalized guidance for your professional journey.",
+      "AI customizes study plans based on student performance, ensuring efficient learning with tailored resources and adaptive difficulty levels.",
   },
   {
-    question: "How does Sensai create tailored content?",
+    question: " How do Mock Test help in career preparation?",
     answer:
-      "Sensai learns about your industry, experience, and skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
+      "AI-powered mock interviews provide real-time feedback on HR interview skills and offer hands-on coding challenges for DSA preparation. This helps candidates improve their problem-solving abilities, communication skills, and overall confidence for real job interviews.",
   },
   {
-    question: "How accurate and up-to-date are Sensai's industry insights?",
+    question: "How accurate and up-to-date are EduFlex industry insights?",
     answer:
       "We update our industry insights weekly using advanced AI analysis of current market trends. This includes salary data, in-demand skills, and industry growth patterns. Our system constantly evolves to ensure you have the most relevant information for your career decisions.",
   },
   {
-    question: "Is my data secure with Sensai?",
+    question: "Is my data secure with EduFlex?",
     answer:
       "Absolutely. We prioritize the security of your professional information. All data is encrypted and securely stored using industry-standard practices. We use Clerk for authentication and never share your personal information with third parties.",
   },

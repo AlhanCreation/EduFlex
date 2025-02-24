@@ -25,7 +25,7 @@ export const features = [
     description: "Generate ATS-optimized resumes with AI assistance.",
   },
   {
-    icon: <ScrollText className="w-10 h-10 mb-4 text-primary" />,
+    icon: <LineChart className="w-10 h-10 mb-4 text-primary" />,
     title: "Live Mentorship",
     description: "Provides expert mentorship for subject-specific learning.",
   },
@@ -33,5 +33,16 @@ export const features = [
     icon: <ScrollText className="w-10 h-10 mb-4 text-primary" />,
     title: "DSA Rounds",
     description: "DSA problem solving",
+  },
+  {
+    icon: <BrainCircuit className="w-10 h-10 mb-4 text-primary" />,
+    title: "Secure Fees via Blockchain",
+    description: "Tamper-proof blockchain-based to ensure authenticity.",
+  },
+
+  {
+    icon: <Briefcase className="w-10 h-10 mb-4 text-primary" />,
+    title: "Upcoming Fetures",
+    description: "coming soon!.",
   },
 ];
